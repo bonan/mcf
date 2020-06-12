@@ -1,3 +1,13 @@
+# Dependencies
+
+* libpcap
+
+# Build
+```
+go build -ldconfig '-s -w' -o mcf main.go
+```
+
+
 # Examples
 
 Forward SSDP from eth0 to eth1
