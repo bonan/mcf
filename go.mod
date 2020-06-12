@@ -1,4 +1,4 @@
-module hemtjan.st/mcf
+module github.com/bonan/mcf
 
 go 1.14
 
